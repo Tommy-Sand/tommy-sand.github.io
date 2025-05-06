@@ -1,0 +1,17 @@
+entries:
+  - title: info
+    entries:
+      - title: github
+        url: https://github.com/Tommy-Sand
+      - title: resume
+        url: 
+      - title: linkedin
+        url: https://www.linkedin.com/in/tommy-sand/
+  - title: portfolio
+    entries: 
+      - title: JPEG Codec
+      - title: WebAssembly Interpreter
+      - title: Gazprea
+  - title: blog posts
+    entries:
+      - title: Fast Discrete Cosine Transform
