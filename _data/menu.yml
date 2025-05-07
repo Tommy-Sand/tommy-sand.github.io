@@ -7,11 +7,13 @@ entries:
         url: 
       - title: linkedin
         url: https://www.linkedin.com/in/tommy-sand/
+
   - title: portfolio
     entries: 
       - title: JPEG Codec
       - title: WebAssembly Interpreter
       - title: Gazprea
+
   - title: blog posts
-    entries:
+    post_list:
       - title: Fast Discrete Cosine Transform
